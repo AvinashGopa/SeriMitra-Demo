@@ -1,6 +1,6 @@
 {
-  "latest_build": 2,
-  "latest_version": "1.1.0",
-  "min_build": 1,
+  "latest_build": 3,
+  "latest_version": "1.1.1",
+  "min_build": 3,
   "apk_url": "https://github.com/AvinashGopa/SeriMitra-Demo/releases/download/demo-v1.0.0/app-debug.apk"
 }
